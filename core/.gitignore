@@ -1,0 +1,29 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Temp files
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Python
+*.py[cod]
+*$py.class
